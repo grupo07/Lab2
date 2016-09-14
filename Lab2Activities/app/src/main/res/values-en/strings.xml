@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Lab2Activities</string>
+    <!-- Strings related to activities tittle-->
+    <!-- Strings related to login -->
+    <string name="uuser">User</string>
+    <string name="ppassword">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="invalid_password">Password is too short</string>
+    <string name="incorrect_password">User or password invalid</string>
+    <string name="invalid_user">User is too short</string>
+    <string name="field_required">This file is required</string>
+    <string name="correo">E-mail</string>
+    <string name="Registrarse">Register</string>
+    <string name="telefono">Phone number</string>
+    <string name="invalid_mail">Invalid e-mail</string>
+    <string name="pass_no_equals">Password do not match</string>
+    <string name="user_exists">User already exists</string>
+    <string name="register_cancelled">Register was cancelled</string>
+    <string name="ok_register">Successful registration</string>
+    <string name="user_no_exists">User is not registered</string>
+    <string name="confirmarConstraseña">Confirm password</string>
+    <string name="about">Information</string>
+    <string name="places">Places</string>
+    <string name="no_places">There are not places</string>
+    <string name="profile">Profile</string>
+    <string name="Score">Score</string>
+    <string name="Place">Place</string>
+    <string name="NombreUbicacion">Location</string>
+    <string name="Descripcion">Information</string>
+    <string name="Temperatura">Temperature and Places</string>
+    <string name="login">Sign In or Register</string>
+    <string name="action_settings">Sign Out</string>
+</resources>
